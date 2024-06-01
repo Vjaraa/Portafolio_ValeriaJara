@@ -94,7 +94,7 @@ const Contact = () => {
             <S.Button type="submit">Enviar</S.Button>
           </S.Form>
         )}
-        {errorSendForm && (<S.TextError>Se ha producido un error</S.TextError>)}
+        {errorSendForm && (<S.TextError> </S.TextError>)}
       </S.ContainerForm>
       
     </S.ContainerContact>

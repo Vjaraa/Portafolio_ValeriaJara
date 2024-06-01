@@ -14,6 +14,7 @@ const AboutMe = () => {
           <S.DescriptionText>
           <p>Soy Ingeniera Industrial de profesión pero me encanta la tecnología, por lo que en este momento soy QA, donde mi principal objetivo es asegurar que el producto final sea de calidad.</p>
           <p>Quisiera seguir aprendiendo nuevas tecnologías para potenciar mi futuro profesional.</p>
+          <p>Manejo de las siguientes tecnologías: MongoDB, Express, React, Node, JavaScript, CSS, Vite y bootstrap.</p>
           </S.DescriptionText>
           <S.ContainerIcons>
           </S.ContainerIcons>
