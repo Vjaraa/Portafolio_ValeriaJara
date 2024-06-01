@@ -3,6 +3,7 @@ import cssImage from "../../images/techs/CSS-Logo.png";
 import htmlImage from "../../images/techs/HTML5.png";
 import javaScriptImage from "../../images/techs/javascript.png";
 import reactImage from "../../images/techs/logo_react.png";
+import viteImage from "../../images/techs/vite.jpg";
 import project1Image from "../../images/projects/project1.jpg";
 import project2Image from "../../images/projects/project2.jpg";
 import project3Image from "../../images/projects/project3.jpg";
@@ -69,6 +70,7 @@ export const projectsPortfolio = [
         { name: "HTML", src: htmlImage }, 
         { name: "CSS", src: cssImage },
         { name: "React", src: reactImage },
+        { name: "Vite", src: viteImage },
     ],
     description: "Proyecto en construcción",
     repository: "https://github.com/Vjaraa/EcommerceApp_MERN.git",

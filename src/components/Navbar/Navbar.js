@@ -23,9 +23,9 @@ const Navbar = () => {
             </S.ContainerBurger>
     
         <S.ContainerItems showMenuBurger={showMenuBurger}>
-            <p>About me</p>
-            <p>Projects</p>
-            <S.button>Contact me</S.button>
+            <p>Acerca de mi</p>
+            <p>Proyectos</p>
+            <S.button>Contacto</S.button>
         </S.ContainerItems>
     </S.ContainerNavbar>;
     };

@@ -7,12 +7,13 @@ const AboutMe = () => {
       <S.ContainerFlex>
         <S.ContainerText>
           <S.Title>
-            <p>Hello I am</p>
+            <p>Hola, mi nombre es</p>
             <p>Valeria Jara Arenas</p>
             <p>Developer Full Stack</p>
           </S.Title>
           <S.DescriptionText>
-          Hello, I am an Industrial Engineer by profession but I love technology, so at this moment my position is Quality Assurance, where my main objective is to ensure that the final product is of quality.
+          <p>Soy Ingeniera Industrial de profesión pero me encanta la tecnología, por lo que en este momento soy QA, donde mi principal objetivo es asegurar que el producto final sea de calidad.</p>
+          <p>Quisiera seguir aprendiendo nuevas tecnologías para potenciar mi futuro profesional.</p>
           </S.DescriptionText>
           <S.ContainerIcons>
           </S.ContainerIcons>

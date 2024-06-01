@@ -9,11 +9,11 @@ const Projects = () => {
   return (
     <S.ContainerProjects>
       <S.Title>
-        Some of{" "}
+       Parte de mis {" "}
         <span>
           {" "}
           <br />
-          Projects
+          Proyectos
         </span>
       </S.Title>
       <S.ContentProjects>
