@@ -16,6 +16,7 @@ background: ${colors.TEXT_WHITE};
 export const ContainerLogo = styled.div`
 display: flex;
 align-items: center;
+margin-top: 20px;
 
 
 h1, h2 {
@@ -25,13 +26,13 @@ margin: 0;
 }
 
 h1 {
-font-size: 2rem;
+font-size: 20px;
 }
 
 h2 {
 background: linear-gradient(135deg, #aa5f50 0%, #e68571 100%);
 background-clip: text;
-font-size: 15px;
+font-size: 20px;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;}
 `;

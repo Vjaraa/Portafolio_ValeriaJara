@@ -9,10 +9,10 @@ const Navbar = () => {
     
       return <S.ContainerNavbar>
         <S.ContainerLogo>
-            <S.imageLogo src="/img/Logo.ico" alt="Logo Restaurant App" />
+            <S.imageLogo src="/img/computadorlogo.png" alt="Valeria Jara" />
             <div>
-                <h1>Dolce Rosa</h1>
-                <h2>Deliciosa Gatronomía</h2>
+                <h1>Valeria Jara</h1>
+                <h2>Developer Full Stack</h2>
             </div>
         </S.ContainerLogo>
     
@@ -23,9 +23,9 @@ const Navbar = () => {
             </S.ContainerBurger>
     
         <S.ContainerItems showMenuBurger={showMenuBurger}>
-            <p>Sobre nosotros</p>
-            <p>Dolce Menú</p>
-            <S.button>Reservaciones</S.button>
+            <p>About me</p>
+            <p>Projects</p>
+            <S.button>Contact me</S.button>
         </S.ContainerItems>
     </S.ContainerNavbar>;
     };
